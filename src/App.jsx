@@ -32,7 +32,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen w-full flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 font-inter">
+    <div className="min-h-screen w-full h-full flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 font-inter">
       <div className="bg-white shadow-2xl rounded-2xl w-full max-w-md p-8 text-center transition-all duration-300">
         <h1 className="text-3xl font-bold text-blue-700 mb-3">🔗 URL Shortener</h1>
         <p className="text-gray-500 mb-6 text-sm">
